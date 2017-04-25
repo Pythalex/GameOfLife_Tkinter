@@ -1,8 +1,8 @@
-#Game of Life
-###Python3 - Tkinter
+# Game of Life
+### Python3 - Tkinter
 
 ---
-####__Description__
+#### __Description__
 
 This repository provides a python implementation example of the game of life. <br/>
 The usage of Tkinter may sometimes cause "visual glitches" like bad pixels. <br/>
@@ -15,8 +15,5 @@ _25 April 2017 - 19:47_
 
 ---
 
-###Quick preview
-<video controls="controls">
-  <source type="video/mp4" src="https://i.gyazo.com/10eb7e89cf40c335d494630f09545eff.mp4"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
+### Quick preview
+![alt_tag](https://i.gyazo.com/21d4070566af92907ce74dfd2689ffe7.png)
